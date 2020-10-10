@@ -1,0 +1,9 @@
+index.html
+*.log
+dist
+build
+node_modules
+.idea
+src/js/config.js
+.DS_Store
+template.html
